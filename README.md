@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Vamsi Krishna 👋
 
-<!--
-**0xVamsiSec/0xVamsiSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Student
 
-Here are some ideas to get you started:
+🚀 Aspiring Full Stack Web3 Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛡️ Future Smart Contract Security Engineer
+
+---
+
+## 🌱 Currently Learning
+
+- Modern JavaScript
+- React
+- Backend Development
+- Web3 Fundamentals
+- Smart Contract Security
+
+---
+
+## 🛠️ Tech Stack
+
+- JavaScript
+- HTML
+- CSS
+- Python
+- Git & GitHub
+
+### Learning Next
+
+- React
+- Node.js
+- Solidity
+- Foundry
+
+---
+
+## 🚀 Featured Projects
+
+### 💰 Crypto Price Tracker
+Tracks cryptocurrency prices using APIs.
+
+### 🔐 AuditMind AI
+ElizaOS-powered smart contract security copilot.
+
+### 👛 Wallet System CLI
+JavaScript-based wallet simulation project.
+
+---
+
+## 🎯 2026 Goals
+
+- Build 10+ Web3 projects
+- Learn Solidity and Foundry
+- Contribute to Open Source
+- Transition into Smart Contract Security
+
+---
+
+## 📫 Connect With Me
+
+- X: @0xVamsiSec
+- LinkedIn: linkedin.com/in/maddiapallivamsikrishna
