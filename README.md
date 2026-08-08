@@ -14,9 +14,6 @@
 - CSS
 - Python
 - Git & GitHub
-
-### Learning Next
-
 - React
 - Node.js
 - Solidity
