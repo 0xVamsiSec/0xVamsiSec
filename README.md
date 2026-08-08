@@ -19,8 +19,6 @@
 - Solidity
 - Foundry
 
----
-
 ## 🚀 Featured Projects
 
 ### 💰 Crypto Price Tracker
@@ -31,8 +29,6 @@ ElizaOS-powered smart contract security copilot.
 
 ### 👛 Wallet System CLI
 JavaScript-based wallet simulation project.
-
----
 
 ## 📫 Connect With Me
 
