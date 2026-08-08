@@ -6,17 +6,6 @@
 
 🛡️ Future Smart Contract Security Engineer
 
----
-
-## 🌱 Currently Learning
-
-- Modern JavaScript
-- React
-- Backend Development
-- Web3 Fundamentals
-- Smart Contract Security
-
----
 
 ## 🛠️ Tech Stack
 
