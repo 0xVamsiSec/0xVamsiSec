@@ -34,15 +34,6 @@ JavaScript-based wallet simulation project.
 
 ---
 
-## 🎯 2026 Goals
-
-- Build 10+ Web3 projects
-- Learn Solidity and Foundry
-- Contribute to Open Source
-- Transition into Smart Contract Security
-
----
-
 ## 📫 Connect With Me
 
 - X: @0xVamsiSec
